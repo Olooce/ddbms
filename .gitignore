@@ -17,3 +17,12 @@ buildNumber.properties
 
 # Avoid ignoring libraries for quicker setup
 !/lib/*.jar
+.idea/
+node_modules/
+.vscode/
+build/
+dist/
+.DS_Store
+coverage/
+.env
+Thumbs.db
